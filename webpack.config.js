@@ -1,9 +1,9 @@
 var config = {
-   entry: './main.js',
+   entry: './app/main.js',
 	
    output: {
       path:'./',
-      filename: 'index.js',
+      filename: 'bundle.js',
    },
 	
    devServer: {
