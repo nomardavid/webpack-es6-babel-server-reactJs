@@ -1,14 +1,22 @@
 {
   "name": "react-webpack-babel-es6-envionment",
   "version": "0.0.2",
-  "description": "installing",
+  "description": "Server for ReactJs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nomardavid/webpack-es6-babel-server-reactJs.git"
+  },
   "scripts": {
     "test": "webpack-dev-server --progress --colors",
     "start": "webpack-dev-server --hot"
   },
-  "author": "omar garcia",
+  "author": "Omar Garcia <omarmobgarcia@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomardavid/webpack-es6-babel-server-reactJs/issues"
+  },
+  "homepage": "https://github.com/nomardavid/webpack-es6-babel-server-reactJs",
   "dependencies": {
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
