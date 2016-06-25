@@ -1,0 +1,13 @@
+body {
+  background: #bdc3c7;
+  padding: 40px;
+}
+
+#counter {
+  width: 300px;
+  margin: auto;
+  background: #9b59b6;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
